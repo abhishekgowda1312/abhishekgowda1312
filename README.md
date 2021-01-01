@@ -1,16 +1,19 @@
-Hi there, I'm Abhishek 👋
 
-I'm a Front End Developer, who love to code!
+### Hi there, I'm Abhishek 👋
 
-📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 
-👯 I’m looking to collaborate with other passionate developers.
+# I'm a Front End Developer, who love to code!
 
-🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 
-⚡ Fun fact: I love to play on consoles & travel new places.
+* 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
 
-Languages and Tools:
+* 👯 I’m looking to collaborate with other passionate developers.
+
+* 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+
+* ⚡ Fun fact: I love to play on consoles & travel new places.
+
+#### Languages and Tools:
 
 Visual Studio Code
 
