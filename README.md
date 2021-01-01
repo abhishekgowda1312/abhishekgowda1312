@@ -11,6 +11,7 @@ I'm a Front End Developer, who love to code!
 ⚡ Fun fact: I love to play on consoles & travel new places.
 
 Languages and Tools:
+
 Visual Studio Code
 
 HTML5
