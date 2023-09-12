@@ -5,11 +5,11 @@
 # I'm a Front End Developer, who loves to code!
 
 
-* 📚 I’m currently working on React, Javascript, SAPUI5, Nodejs and Firebase.
+* 📚 I’m currently working on React, Javascript, SAPUI5, Nodejs and OData.
 
 * 👯 I’m looking to collaborate with other passionate developers.
 
-* 🥅 2023 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+* 🥅 2023 Goals: Master React, SAPUI5, CDS, OData . Contribute to Open Source projects.
 
 * ⚡ Fun fact: I love to play on consoles & travel new places.
 
