@@ -1,8 +1,8 @@
 
-### Hi there, I'm Abhishek Gowda👋
+## Hi there, I'm Abhishek Gowda👋
 
 
-# I'm a Front End Developer, who loves to code! Progressing towards becoming a Full stack developer and Ultimately a Solution Architect!
+### I'm a Front End Developer, who loves to code! Progressing towards becoming a Full stack developer and Ultimately a Solution Architect!
 
 
 * 📚 I’m currently working on React, Javascript, SAPUI5, Nodejs and OData.
